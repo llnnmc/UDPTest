@@ -1,0 +1,69 @@
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.dll
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.pdb
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.dll
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.pdb
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.dll
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.pdb
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.dll
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.pdb
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.dll
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.pdb
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.dll
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.pdb
+D:\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.dll
+D:\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.pdb
+D:\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.dll
+D:\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.pdb
+D:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+D:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.dll
+D:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.pdb
+E:\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.dll
+E:\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.pdb
+E:\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.dll
+E:\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.pdb
+E:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+E:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+E:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.dll
+E:\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.pdb
+D:\yizit\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.dll
+D:\yizit\My Projects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.pdb
+D:\yizit\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.dll
+D:\yizit\My Projects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.pdb
+D:\yizit\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\yizit\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+D:\yizit\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\yizit\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.dll
+D:\yizit\My Projects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.pdb
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.dll
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\bin\Debug\UDPClient.pdb
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.dll
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\bin\Debug\IPAddressControlLib.pdb
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.dll
+D:\yizit\MyProjects\C#\MESAssist\UDPClient\obj\Debug\UDPClient.pdb
+E:\UDPTest\UDPClient\bin\Debug\UDPClient.dll
+E:\UDPTest\UDPClient\bin\Debug\UDPClient.pdb
+E:\UDPTest\UDPClient\bin\Debug\IPAddressControlLib.dll
+E:\UDPTest\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+E:\UDPTest\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+E:\UDPTest\UDPClient\obj\Debug\UDPClient.dll
+E:\UDPTest\UDPClient\obj\Debug\UDPClient.pdb
+E:\UDPTest\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\bin\Debug\UDPClient.dll
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\bin\Debug\UDPClient.pdb
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\bin\Debug\IPAddressControlLib.dll
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\obj\Debug\UDPClient.frmUDPClient.resources
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\obj\Debug\UDPClient.dll
+D:\yizit\MyProjects\C#\UDPTest\UDPClient\obj\Debug\UDPClient.pdb

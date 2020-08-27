@@ -1,0 +1,56 @@
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.dll
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.pdb
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.dll
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.pdb
+D:\金山快盘llnnmc\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.dll
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.pdb
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.dll
+D:\百度云同步盘\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.pdb
+D:\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.dll
+D:\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.pdb
+D:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+D:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+D:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.dll
+D:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.pdb
+E:\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.dll
+E:\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.pdb
+E:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+E:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+E:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.dll
+E:\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.pdb
+D:\yizit\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.dll
+D:\yizit\My Projects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.pdb
+D:\yizit\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\yizit\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+D:\yizit\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+D:\yizit\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.dll
+D:\yizit\My Projects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.pdb
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.dll
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\bin\Debug\UDPServer.pdb
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.dll
+D:\yizit\MyProjects\C#\MESAssist\UDPServer\obj\Debug\UDPServer.pdb
+E:\UDPTest\UDPServer\bin\Debug\UDPServer.dll
+E:\UDPTest\UDPServer\bin\Debug\UDPServer.pdb
+E:\UDPTest\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+E:\UDPTest\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+E:\UDPTest\UDPServer\obj\Debug\UDPServer.dll
+E:\UDPTest\UDPServer\obj\Debug\UDPServer.pdb
+E:\UDPTest\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\bin\Debug\UDPServer.dll
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\bin\Debug\UDPServer.pdb
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\obj\Debug\UDPServer.frmUDPServer.resources
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\obj\Debug\UDPServer.dll
+D:\yizit\MyProjects\C#\UDPTest\UDPServer\obj\Debug\UDPServer.pdb
